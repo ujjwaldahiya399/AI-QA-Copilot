@@ -21,4 +21,4 @@ jobs:
             - name: Push Image to DockerHub
               run: |
                     docker tag dahiyaujjwal/ai-qa-copilot dahiyaujjwal/dahiyaujjwal/ai-qa-copilot:latest
-                    docker push dahiyaujjwal/dahiyaujjwal/ai-qa-copilot:latest
+                    docker push dahiyaujjwal/ai-qa-copilot:latest
