@@ -5,6 +5,10 @@ reads the code changes, automatically generates targeted test cases, assesses
 risk, and posts a full QA report directly as a comment on the PR — without any
 human involvement.
 
+## Demo
+
+![Demo](demo.gif)
+
 ---
 
 ## The Problem It Solves
